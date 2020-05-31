@@ -1,0 +1,1 @@
+C:\Tools\apache-jmeter-5.2.1\bin\jmeter.bat -Jjmeter.save.saveservice.output_format=xml -n -t C:\Tools\apache-jmeter-5.2.1\bin\JmeterJenkinsTest.jmx -l C:\Tools\apache-jmeter-5.2.1\bin\Results\TestResult_240420.jtl
